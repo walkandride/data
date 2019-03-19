@@ -4,15 +4,15 @@
 	  "[725193] (CLEMENT.MURPHY) CLEMENT MURPHY",
 	  "[1715229] (AFR-J7TNG-DL-001) AFRICOM IT User Agreement (10 min)",
 	  "(1) Passed",
-	  .29,
-	  .3
+	  ".29",
+	  ".3"
 	],
 	[
 	  "[9575475] (JOHN.SINUES.STU) J SINUES",
 	  "[1732196] (BETAUS1046-1A) Beta 1046-1 resident ",
 	  "(3) Dropped",
-	  0,
-	  0
+	  "0",
+	  "0"
 	]
   ]
 }
