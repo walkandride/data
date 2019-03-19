@@ -1,6 +1,6 @@
 {
-"data": [
-	[
+  "data": [
+  [
 	  "[725193] (CLEMENT.MURPHY) CLEMENT MURPHY",
 	  "[1715229] (AFR-J7TNG-DL-001) AFRICOM IT User Agreement (10 min)",
 	  "(1) Passed",
@@ -14,5 +14,5 @@
 	  0,
 	  0
 	]
-]
+  ]
 }
