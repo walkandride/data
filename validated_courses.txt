@@ -1,6 +1,6 @@
 {
 	"data": [
-		{"crs":"[1705555] (NNC-MOP-2.3-V1-J2) JSTC Module 2.3 - MOP","id_pk":"503","src_table":"validate_graduation_course_lk","min_time_in_minutes":"0"},
-		{"crs":"[704324] (J3OP-US109) Link 16 Joint Interoperability Course (33 hrs)","id_pk":"194","src_table":"validate_graduation_course_lk","min_time_in_minutes":"0"}
+		{"crs":"[1705555] (NNC-MOP-2.3-V1-J2) JSTC Module 2.3 - MOP","id_pk":"503","src_table":"validate_graduation_course_lk","min_time_in_minutes":""},
+		{"crs":"[704324] (J3OP-US109) Link 16 Joint Interoperability Course (33 hrs)","id_pk":"194","src_table":"validate_graduation_course_lk","min_time_in_minutes":""}
 	]
 }
